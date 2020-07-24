@@ -1,0 +1,11 @@
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\Microsoft.AspNet.SignalR.Core.csproj.GenerateResource.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\Microsoft.AspNet.SignalR.Core.AssemblyInfoInputs.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\Microsoft.AspNet.SignalR.Core.AssemblyInfo.cs
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\Microsoft.AspNet.SignalR.Core.csproj.CoreCompileInputs.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\Microsoft.AspNet.SignalR.Core.csprojAssemblyReference.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\PO.SignalR.Slim.Resources.resources
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\bin\Release\netstandard2\PO.SignalR.Slim.deps.json
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\bin\Release\netstandard2\PO.SignalR.Slim.dll
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\bin\Release\netstandard2\PO.SignalR.Slim.pdb
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\PO.SignalR.Slim.dll
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Release\netstandard2\PO.SignalR.Slim.pdb

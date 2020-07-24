@@ -1,0 +1,18 @@
+﻿// Copyright (c) .NET Foundation. All rights reserved.
+// Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
+
+using System.Diagnostics.CodeAnalysis;
+
+namespace PO.SignalR.Slim.Hubs
+{
+    public class NullJavaScriptMinifier : IJavaScriptMinifier
+    {
+        [SuppressMessage("Microsoft.Security", "CA2104:DoNotDeclareReadOnlyMutableReferenceTypes", Justification = "This is a singleton")]
+        public static readonly NullJavaScriptMinifier Instance = new NullJavaScriptMinifier();
+
+        public string Minify(string source)
+        {
+            return source;
+        }
+    }
+}

@@ -1,0 +1,12 @@
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.csprojAssemblyReference.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Resources.resources
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.csproj.GenerateResource.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.AssemblyInfoInputs.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.AssemblyInfo.cs
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.csproj.CoreCompileInputs.cache
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\bin\Debug\net45\Microsoft.AspNet.SignalR.Core.dll
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\bin\Debug\net45\Microsoft.AspNet.SignalR.Core.pdb
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\bin\Debug\net45\Newtonsoft.Json.dll
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.csproj.CopyComplete
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.dll
+C:\code\SignalRSpike\Microsoft.AspNet.SignalR.Core\obj\Debug\net45\Microsoft.AspNet.SignalR.Core.pdb

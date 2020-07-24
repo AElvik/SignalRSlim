@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PO.SignalR.Slim</id>
+    <version>1.2.0</version>
+    <title>Microsoft ASP.NET SignalR Core Components</title>
+    <authors>PO.SignalR.Slim</authors>
+    <owners>PO.SignalR.Slim</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Async signaling library for .NET to help build real-time, multi-user interactive web applications.</description>
+    <tags>Microsoft AspNet SignalR AspNetSignalR Core</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Microsoft.Azure.ServiceBus" version="4.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Emit" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.ProtectedData" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Azure.ServiceBus" version="4.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.Emit" version="4.7.0" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Cryptography.ProtectedData" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.IO" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Net.WebSockets.Client" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Net.WebSockets" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Runtime" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Runtime.Serialization.Primitives" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Algorithms" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Encoding" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.Primitives" targetFramework=".NETFramework4.7.2" />
+      <frameworkAssembly assemblyName="System.Security.Cryptography.X509Certificates" targetFramework=".NETFramework4.7.2" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\code\SignalRSpike\PO.SignalR.Slim\bin\Release\net472\PO.SignalR.Slim.dll" target="lib\net472\PO.SignalR.Slim.dll" />
+    <file src="C:\code\SignalRSpike\PO.SignalR.Slim\bin\Release\netstandard2\PO.SignalR.Slim.dll" target="lib\netstandard2.0\PO.SignalR.Slim.dll" />
+  </files>
+</package>
